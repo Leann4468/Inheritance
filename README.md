@@ -19,7 +19,7 @@ step 4: create a function in child class to print a message.
 
 Name: Leann Joby Mathew
 
-Reg no:212222230074
+Reg no: 212222230074
 
 ```python
 using System;
