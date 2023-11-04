@@ -17,9 +17,9 @@ step 4: create a function in child class to print a message.
 
 ## Program:
 
-Name: G.TEJASWINI
+Name: Leann Joby Mathew
 
-Reg no:212222230157
+Reg no:212222230074
 
 ```python
 using System;
